@@ -7,7 +7,6 @@ This folder contains code and resources for training a machine learning model on
 * Data preprocessing scripts
 * Model training code
 * Evaluation metrics and results
-* Saved models (if any)
 
 ## ⚙️ What this does
 
@@ -24,7 +23,7 @@ The goal of this project is to predict passenger survival based on features such
 This folder may include:
 
 * Logistic Regression
-* Decision Trees / Random Forest
+* Random Forest regression
 * Other ML algorithms
 
 ## ▶️ How to run
