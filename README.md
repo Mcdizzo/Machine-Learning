@@ -18,11 +18,11 @@ SQL and CSV/JSON data handling
 
 Clone the repository:
 
-git clone https://github.com/Mcdizzo/ML-Projects.git
+git clone https://github.com/Mcdizzo/Machine-Learning.git
 
 Navigate into a project folder:
 
-cd ML-Projects/Project-Name
+cd Machine-Learning/Project-Name
 
 Install required packages:
 
