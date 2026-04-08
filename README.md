@@ -18,7 +18,7 @@ SQL and CSV/JSON data handling
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/ML-Projects.git
+git clone https://github.com/Mcdizzo/ML-Projects.git
 
 Navigate into a project folder:
 
